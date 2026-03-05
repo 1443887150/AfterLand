@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ci
+  - chi
+  - diren
+  - wanjia
+  - npc
+  - chilan
+  - chihon
+  - dgj
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - zhujue
+  - Water
+  - UI
+  - dimian
+  - TriggerBox
+  - jineng
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item
+    uniqueID: 874379425
+    locked: 0
